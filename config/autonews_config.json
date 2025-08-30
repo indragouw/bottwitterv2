@@ -1,7 +1,7 @@
 {
   "scrape_url": "https://www.trends24.in/united-states",
   "jumlah_hashtag_tambahan": 4,
-  "prompt_gemini": "Buat sebuah kalimat berita singkat yang sangat membuat penasaran dalam bentuk tweet (maksimal 150 karakter) tentang topik '{keyword}'. Jangan berikan kesimpulan. Jangan gunakan hashtag dalam jawabanmu. Wajib menggunakan Bahasa Inggris.",
+  "prompt_gemini": "Buat sebuah kalimat berita singkat yang sangat clickbait sehingga membuat penasaran dan orang pasti klik link dalam bentuk tweet (maksimal 150 karakter) tentang topik '{keyword}'. Jangan berikan kesimpulan. Jangan gunakan hashtag dalam jawabanmu. Wajib menggunakan Bahasa Inggris.",
   "traffic_link": "Check This Out: 👉👉 https://nobarsoccer.com",
   "manual_hashtags": ["#goal", "#football", "#soccer"],
   "gagal_scrape_gambar_tetap_posting": true
