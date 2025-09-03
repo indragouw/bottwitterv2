@@ -76,3 +76,4 @@ Rocket City
 Chicago
 DWCS
 WWENXT
+Fritz
