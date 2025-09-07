@@ -176,3 +176,4 @@ wildcard
 POUNDING
 HardRockBet
 McLaren
+NFL Sunday
