@@ -175,3 +175,4 @@ Hobi
 wildcard
 POUNDING
 HardRockBet
+McLaren
